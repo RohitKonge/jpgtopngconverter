@@ -1,6 +1,7 @@
 # Allow all web crawlers
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
 
 # Sitemap location
 Sitemap: https://jpg2png.xyz/sitemap.xml
